@@ -1,0 +1,4 @@
+neidatadump.text = Dump Data
+neidatadump.name = Dump Data Button
+neidatadump.prefix = Dump Data Prefix
+neidatadump.tip = Export all NEI data
